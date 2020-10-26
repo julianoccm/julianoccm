@@ -33,5 +33,5 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
   <a href="https://www.linkedin.com/in/juliano-colere-ceccon-moreira-2577b0196"> <img height = "60" src="Icons/linkedin.svg"> </a>&nbsp;&nbsp;
 </p>
   
-## Contato
-Email: julianocolerecmoreira@gmail.com
+# Contato
+## Email: julianocolerecmoreira@gmail.com
