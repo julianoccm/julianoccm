@@ -14,11 +14,11 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
 
 ## 🛠 Tecnologias & Ferramentas!
 
-![](https://img.shields.io/badge/Linguagem-C%23-brightgreen) ![](https://img.shields.io/badge/Framework-.NET%20Core-brightgreen) ![](https://img.shields.io/badge/Framework-.NET%20Framework-brightgreen) ![](https://img.shields.io/badge/Framework-Windows%20Presentation%20Foundation-brightgreen) ![](https://img.shields.io/badge/Framework-Windows%20Forms-brightgreen)
+![](https://img.shields.io/badge/Linguagem-C%23-brightgreen) ![](https://img.shields.io/badge/Framework-.NET%20Core-brightgreen) ![](https://img.shields.io/badge/Framework-.NET%20Framework-brightgreen) ![](https://img.shields.io/badge/Framework-Windows%20Presentation%20Foundation-brightgreen) ![](https://img.shields.io/badge/Framework-Windows%20Forms-brightgreen) ![](https://img.shields.io/badge/Linguagem-JavaScript-brightgreen) ![](https://img.shields.io/badge/Linguagem-HTML-brightgreen) ![](https://img.shields.io/badge/Linguagem-CSS-brightgreen)
 
 ### 🌱 Em estudo!
 
-![](https://img.shields.io/badge/Linguagem-JavaScript-informational) ![](https://img.shields.io/badge/Linguagem-HTML-informational) ![](https://img.shields.io/badge/Linguagem-CSS-informational) ![](https://img.shields.io/badge/Framework-ASP.NET-informational)
+![](https://img.shields.io/badge/Framework-ASP.NET-informational) ![](https://img.shields.io/badge/Framework-React%20Native-blue)
 
 ### 📚 Ainda vou estudar!
 
