@@ -1,21 +1,14 @@
 # Juliano Colere Ceccon Moreira
-## Programador em aprendizado com muito entusiasmo!</h2>
 
 ### Hello there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em Informatica. Estou cursando o segundo ano do ensino médio, e trabalhando como desenvolvedor treinee na Contabilizei! Possuo uma bagagem em programação! E estou sempre buscando aprender algo novo, seja uma linguagem, um framework, ou novos conceitos dessa área que eu amo. A informática e o desenvolvimento de software!
 
-<br/>
-
-<div style="display: flex; justify-content: space-around;">
+<div>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=JulianoCCMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCCMoreira&layout=compact&theme=dracula"/>
 </div>
 
-<br/>
-<hr/>
-<br/>
-
-<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+<div>
   <div>
     <h2>🛠 Tecnologias & Ferramentas!</h2>
     <img alt="Juliano-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -29,7 +22,6 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
     <img alt="Juliano-Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 </div>
-<br/>
 
 ## Redes Sociais
 <p align='center'>
@@ -51,6 +43,5 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
   </a>
 </p>
 
----
 ## Contato
 ### Email: julianocolerecmoreira@gmail.com
