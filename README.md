@@ -18,9 +18,7 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
       <img alt="Juliano-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;
       <img alt="Juliano-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;
       <img alt="Juliano-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
-      <img alt="Juliano-DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> &nbsp;&nbsp;
-      <img alt="Juliano-GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> &nbsp;&nbsp;
-    </p>
+      <img alt="Juliano-DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> &nbsp;&nbsp;</p>
   </div>
   <div>
     <h2>🌱 Em estudo!</h2>
