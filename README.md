@@ -1,6 +1,6 @@
 # Juliano Colere Ceccon Moreira
 
-### Hello there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+### Hello there 
 Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em Informatica. Estou cursando o terceiro ano do ensino médio, e trabalhando como desenvolvedor treinee na Contabilizei! Possuo uma bagagem em programação! E estou sempre buscando aprender algo novo, seja uma linguagem, um framework, ou novos conceitos dessa área que eu amo. A informática e o desenvolvimento de software!
 
 <p align="center">
