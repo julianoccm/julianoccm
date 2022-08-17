@@ -6,7 +6,6 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
 <p align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=JulianoCCMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCCMoreira&layout=compact&theme=dracula"/>
-  <img heigth="120rem" src="http://github-readme-streak-stats.herokuapp.com?user=JulianoCCMoreira&theme=dracula&hide_border=true" />
 </p>
 
 <div>
