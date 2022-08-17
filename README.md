@@ -1,7 +1,7 @@
 # Juliano Colere Ceccon Moreira
 
 ### Hello there 
-Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em Informatica. Estou cursando o terceiro ano do ensino médio, e trabalhando como desenvolvedor treinee na Contabilizei! Possuo uma bagagem em programação! E estou sempre buscando aprender algo novo, seja uma linguagem, um framework, ou novos conceitos dessa área que eu amo. A informática e o desenvolvimento de software!
+Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em Informatica. Estou cursando o terceiro ano do ensino médio, e trabalhando Aprendiz em Análise e Desenvolvimento de Sistemas na Employer! Possuo uma bagagem em programação! E estou sempre buscando aprender algo novo, seja uma linguagem, um framework, ou novos conceitos dessa área que eu amo. A informática e o desenvolvimento de software!
 
 <p align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=JulianoCCMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -51,7 +51,6 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
   <a href="https://open.spotify.com/user/fxh3en2pk6gv359znz59t96bj">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <br/><br/><img src="https://spotify-recently-played-readme.vercel.app/api?user=fxh3en2pk6gv359znz59t96bj&count=3" />
 </p>
 
 ## Contato
