@@ -1,7 +1,8 @@
 # Juliano Colere Ceccon Moreira
 
-### Hello there 
-Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em Informatica. Estou cursando o terceiro ano do ensino médio, e trabalhando Aprendiz em Análise e Desenvolvimento de Sistemas na Employer! Possuo uma bagagem em programação! E estou sempre buscando aprender algo novo, seja uma linguagem, um framework, ou novos conceitos dessa área que eu amo. A informática e o desenvolvimento de software!
+### 👋 Hello there 
+Estudante do Instituto Federal do Paraná (IFPR), cursando o terceiro ano do ensino médio com Técnico em Informática integrado. Trabalho há um ano e meio no mercado de desenvolvimento de software, onde atuei na correção de problemas internos nos microsserviços, correção de dados incorretos na base de dados, desenvolvimento de novas
+funcionalidades e atualizações no front-end e back-end do sistema, a maior parte da minha experiência se resume e trabalhar com: Spring Boot (Java e Kotlin), SQL, GCP e VueJS. Atualmente trabalho como menor aprendiz na Employer Tecnologia.
 
 <p align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=JulianoCCMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,8 +19,10 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
       <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> &nbsp;&nbsp;
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;&nbsp;
       <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
+      <br />
       <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;
       <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;
+      <img alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> &nbsp;&nbsp;
       <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  &nbsp;&nbsp;
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  &nbsp;&nbsp;
       <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  &nbsp;&nbsp;
@@ -27,7 +30,7 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
   </div>
 </div>
 
-## Redes Sociais
+## 🌐 Redes Sociais
 <p align='center'>
   <a href="https://dev.to/julianoccmoreira">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
@@ -50,5 +53,5 @@ Eu sou um estudante do IFPR (Instituto Federal do Paraná) no curso Técnico em 
   </a>
 </p>
 
-## Contato
+## ✉ Contato
 ### Email: julianocolerecmoreira@gmail.com
