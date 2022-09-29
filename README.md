@@ -36,14 +36,6 @@ funcionalidades e atualizações no front-end e back-end do sistema, a maior par
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
     &nbsp;&nbsp;
   </a>
-  <a href="https://www.facebook.com/juliano.coleremoreira">
-   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
-   &nbsp;&nbsp;
-  </a>
-  <a href="https://www.instagram.com/juliano_ccm/"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
-    &nbsp;&nbsp;  
-  </a>
   <a href="https://www.linkedin.com/in/juliano-colere-ceccon-moreira-2577b0196"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
     &nbsp;&nbsp;
