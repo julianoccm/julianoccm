@@ -32,15 +32,15 @@ funcionalidades e atualizações no front-end e back-end do sistema, a maior par
 
 ## 🌐 Redes Sociais
 <p align='center'>
-  <a href="https://dev.to/julianoccmoreira">
+  <a href="https://dev.to/julianoccmoreira" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
     &nbsp;&nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/juliano-colere-ceccon-moreira-2577b0196"> 
+  <a href="https://www.linkedin.com/in/juliano-colere-ceccon-moreira-2577b0196" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
     &nbsp;&nbsp;
   </a>
-  <a href="https://open.spotify.com/user/fxh3en2pk6gv359znz59t96bj">
+  <a href="https://open.spotify.com/user/fxh3en2pk6gv359znz59t96bj" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
