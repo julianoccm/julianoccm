@@ -2,7 +2,7 @@
 
 ### 👋 Hello there 
 Estudante do Instituto Federal do Paraná (IFPR), cursando o terceiro ano do ensino médio com Técnico em Informática integrado. Trabalho há um ano e meio no mercado de desenvolvimento de software, onde atuei na correção de problemas internos nos microsserviços, correção de dados incorretos na base de dados, desenvolvimento de novas
-funcionalidades e atualizações no front-end e back-end do sistema, a maior parte da minha experiência se resume e trabalhar com: Spring Boot (Java e Kotlin), SQL, GCP e VueJS. Atualmente trabalho como menor aprendiz no Banco Nacional de Empregos (BNE).
+funcionalidades e atualizações no front-end e back-end do sistema, a maior parte da minha experiência se resume e trabalhar com: Spring Boot (Java e Kotlin), SQL, GCP e VueJS. Atualmente trabalho como estágiario Java e Flutter na Dixi Ponto.
 
 <p align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=JulianoCCMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
