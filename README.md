@@ -1,19 +1,22 @@
 # Juliano Colere Ceccon Moreira
 
 ### 👋 Hello there 
-Estudante do Instituto Federal do Paraná (IFPR), cursando o terceiro ano do ensino médio com Técnico em Informática integrado. Trabalho há um ano e meio no mercado de desenvolvimento de software, onde atuei na correção de problemas internos nos microsserviços, correção de dados incorretos na base de dados, desenvolvimento de novas
-funcionalidades e atualizações no front-end e back-end do sistema, a maior parte da minha experiência se resume e trabalhar com: Spring Boot (Java e Kotlin), SQL, GCP e VueJS. Atualmente trabalho como estágiario Java e Flutter na Dixi Ponto.
+Sou um profissional de desenvolvimento de software com mais de 2 anos  e meio de experiência, trabalhando em projetos tanto no Back-end quanto no Front-end. Minhas habilidades incluem o desenvolvimento de aplicações web e móveis usando Java com o ecossistema Spring Boot, ASP.NET, Flutter e React Native. Além disso, possuo experiência em arquitetura de microsserviços, testes e versionamento de código. Atualmente trabalho como Desenvolvedor Pleno na Hypeone/Neobpo.
 
 ### Tecnologias e ferramentas
 <div>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> &nbsp;&nbsp;
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> &nbsp;&nbsp;
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp;&nbsp;
+   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  &nbsp;&nbsp;
+   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp;&nbsp;
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> &nbsp;&nbsp;
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  &nbsp;&nbsp;
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  &nbsp;&nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  &nbsp;&nbsp;
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  &nbsp;&nbsp;
   <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  &nbsp;&nbsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  &nbsp;&nbsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  &nbsp;&nbsp;
 </div>
 
 ### Outras redes
