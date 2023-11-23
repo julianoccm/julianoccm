@@ -20,10 +20,6 @@
 <h4>Infra and databases</h4>  
 <img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
 
-<h4>Currently learning</h4>  
-<img src="https://skillicons.dev/icons?i=ruby,rails" />
-
-
 <h2>Connect with me🤝</h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/julianoccmoreira/)
