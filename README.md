@@ -10,8 +10,9 @@
 <h2>Tools</h2>
 
 <h4>Languages</h4>  
-<img align="right" width="400" src="https://github.com/julianoccm/julianoccm/assets/66191563/2f12b51b-5642-4878-8438-06268bfb989e">
+<img align="right" width="400" src="https://github.com/julianoccm/julianoccm/assets/66191563/cca326ae-6f3e-4970-8f93-f878959c7da0">
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,dart,ts,js" />
+
 
 <h4>Frameworks & Ecosystems</h4>  
 <img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet,nodejs" />
