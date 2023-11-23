@@ -23,15 +23,15 @@
 <h2>Connect with me🤝</h2> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julianoccmoreira/" style="cursor:pointer; text-decoration: none" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Your Image Description" style="border: none;">
+  <a target="_blank" href="https://www.linkedin.com/in/julianoccmoreira/" style="cursor:pointer; text-decoration: none">
+    <img src="https://skillicons.dev/icons?i=linkedin"  style="border: none;">
   </a>
   &nbsp;
-  <a href="https://dev.to/julianoccmoreira" style="cursor:pointer; text-decoration: none" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Your Image Description" style="border: none;">
+  <a target="_blank" href="https://dev.to/julianoccmoreira" style="cursor:pointer; text-decoration: none">
+    <img src="https://skillicons.dev/icons?i=devto"  style="border: none;">
   </a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/17686914/juliano-colere-c-moreira" style="cursor:pointer; text-decoration: none" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Your Image Description" style="border: none;">
+  <a target="_blank" href="https://stackoverflow.com/users/17686914/juliano-colere-c-moreira" style="cursor:pointer; text-decoration: none">
+    <img src="https://skillicons.dev/icons?i=stackoverflow"  style="border: none;">
   </a>
 </p>
