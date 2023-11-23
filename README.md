@@ -7,21 +7,20 @@
 <h2>About me</h2>  
 <p align="justify">I am a software development professional with 3 years of experience working on both backend and frontend projects. My skills include developing web and mobile applications using Java with the Spring Boot ecosystem, Flutter and the React ecosystem (React Native and React JS). I also have experience in microservices architecture, testing, code versioning and customer service. <b>And, most importantly, I'm passionate about all kinds of technology.</b></b></p>
 
+<hr>
 
-<h2>Tools</h2>
-
+<h3 align="center">Languages</h3>
 <p align="center">
-  <strong>Languages</strong> <br><br>
   <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,dart,ts,js" />
 </p>
 
+<h3 align="center">Frameworks & Ecosystems</h3>
 <p align="center">
-  <strong>Frameworks & Ecosystems</strong> <br><br>
   <img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet,nodejs" />
 </p>
 
+<h3 align="center">Infra and databases</h3>
 <p align="center">
-  <strong>Infra and databases</strong> <br><br>
   <img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
 </p>
 
