@@ -11,7 +11,8 @@
 
 <h4>Languages</h4>  
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,dart,ts,js" />
-<img align="right" width="400" alt="GIF" src="https://github.com/julianoccm/julianoccm/assets/66191563/e35f6624-e123-4732-a9d2-2a2b5c2131ae">
+<img align="right" width="400" alt="GIF" src="https://github.com/julianoccm/julianoccm/assets/66191563/f680e554-bb71-4dab-a7ce-bfb995e15772">
+
 
 <h4>Frameworks & Ecosystems</h4>  
 <img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet,nodejs" />
