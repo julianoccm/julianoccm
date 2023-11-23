@@ -7,7 +7,6 @@
 <h2>About me</h2>  
 <p align="justify">I am a software development professional with 3 years of experience working on both backend and frontend projects. My skills include developing web and mobile applications using Java with the Spring Boot ecosystem, Flutter and the React ecosystem (React Native and React JS). I also have experience in microservices architecture, testing, code versioning and customer service. <b>And, most importantly, I'm passionate about all kinds of technology.</b></b></p>
 
-<img align="right" width="400" src="https://github.com/julianoccm/julianoccm/assets/66191563/cca326ae-6f3e-4970-8f93-f878959c7da0">
 
 <h2>Tools</h2>
 
