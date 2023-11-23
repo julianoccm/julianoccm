@@ -24,6 +24,7 @@
 
 
 <h2>Connect with me🤝</h2> 
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/julianoccmoreira/)
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/julianoccmoreira)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17686914/juliano-colere-c-moreira)
