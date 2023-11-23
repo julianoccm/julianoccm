@@ -1,38 +1,36 @@
-# Juliano Colere Ceccon Moreira
+<h1 align="center">Hi 👋, I'm Juliano <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-### 👋 Hello there 
-Sou um profissional de desenvolvimento de software com mais de 2 anos  e meio de experiência, trabalhando em projetos tanto no Back-end quanto no Front-end. Minhas habilidades incluem o desenvolvimento de aplicações web e móveis usando Java com o ecossistema Spring Boot, ASP.NET, Flutter e React Native. Além disso, possuo experiência em arquitetura de microsserviços, testes e versionamento de código. Atualmente trabalho como Desenvolvedor Pleno na Hypeone/Neobpo.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=A+passionate+Java+and+front-end+developer+from+Brazil." alt="Typing SVG" /></a>
+</p>
 
-### Tecnologias e ferramentas
-<div>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> &nbsp;&nbsp;
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> &nbsp;&nbsp;
-   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  &nbsp;&nbsp;
-   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp;&nbsp;
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> &nbsp;&nbsp;
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  &nbsp;&nbsp;
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  &nbsp;&nbsp;
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  &nbsp;&nbsp;
-  <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  &nbsp;&nbsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  &nbsp;&nbsp;
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  &nbsp;&nbsp;
-</div>
+<h2>About me</h2>  
+<p align="justify">I am a software development professional with 3 years of experience working on both backend and frontend projects. My skills include developing web and mobile applications using Java with the Spring Boot ecosystem, Flutter and the React ecosystem (React Native and React JS). I also have experience in microservices architecture, testing, code versioning and customer service. <b>And, most importantly, I'm passionate about all kinds of technology.</b></b></p>
 
-### Outras redes
-<div>
-  <a href="https://dev.to/julianoccmoreira" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-    &nbsp;&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/juliano-colere-ceccon-moreira-2577b0196" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-    &nbsp;&nbsp;
-  </a>
-  <a href="https://open.spotify.com/user/fxh3en2pk6gv359znz59t96bj" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</div>
+<h2>Tools I work with</h2>
 
-### Contato
-Entre em contato comigo pelo email: julianocolerecmoreira@gmail.com
+<h4>Languages</h4>  
+
+<img align="right" width="400" alt="GIF" src="https://github.com/julianoccm/julianoccm/assets/66191563/e35f6624-e123-4732-a9d2-2a2b5c2131ae">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,cs,js,ts,dart" />
+
+<h4>Frameworks</h4>  
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,react,angular,flutter" />
+
+<h4>Infra and databases</h4>  
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
+
+
+<h2>Connect with me🤝</h2> 
+<p align="center">
+<a style="text-decoration: none" href="https://www.linkedin.com/in/julianoccmoreira/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a style="text-decoration: none" href="https://dev.to/julianoccmoreira">
+  <img src="https://skillicons.dev/icons?i=devto" />
+</a>
+<a style="text-decoration: none" href="https://stackoverflow.com/users/17686914/juliano-colere-c-moreira">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+</p>
