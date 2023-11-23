@@ -22,7 +22,16 @@
 
 <h2>Connect with me🤝</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/julianoccmoreira/)
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/julianoccmoreira)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17686914/juliano-colere-c-moreira)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/julianoccmoreira/" style="cursor:pointer; text-decoration: none" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Your Image Description" style="border: none;">
+  </a>
+  &nbsp;
+  <a href="https://dev.to/julianoccmoreira" style="cursor:pointer; text-decoration: none" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Your Image Description" style="border: none;">
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/17686914/juliano-colere-c-moreira" style="cursor:pointer; text-decoration: none" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Your Image Description" style="border: none;">
+  </a>
+</p>
