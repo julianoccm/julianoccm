@@ -24,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
 </p>
 
+---
+
 <h2>Connect with me🤝</h2> 
 
 <p align="center">
