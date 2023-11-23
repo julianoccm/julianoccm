@@ -10,23 +10,21 @@
 <h2>Tools I work with</h2>
 
 <h4>Languages</h4>  
-
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,cs,js,ts,dart" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,dart,ts,js" />
 <img align="right" width="400" alt="GIF" src="https://github.com/julianoccm/julianoccm/assets/66191563/e35f6624-e123-4732-a9d2-2a2b5c2131ae">
 
-<h4>Frameworks</h4>  
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,react,angular,flutter" />
+<h4>Frameworks & Ecosystems</h4>  
+<img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet,nodejs" />
 
 <h4>Infra and databases</h4>  
 <img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
 
-<h4>Learning</h4>  
+<h4>Currently learning</h4>  
 <img src="https://skillicons.dev/icons?i=ruby,rails" />
 
 
 <h2>Connect with me🤝</h2> 
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/julianoccmoreira/)
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/julianoccmoreira)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17686914/juliano-colere-c-moreira)
+
