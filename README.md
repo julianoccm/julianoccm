@@ -10,14 +10,20 @@
 
 <h2>Tools</h2>
 
-<h4>Languages</h4> 
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,dart,ts,js" />
+<p align="center">
+  <strong>Languages</strong> <br><br>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,dart,ts,js" />
+</p>
 
-<h4>Frameworks & Ecosystems</h4>  
-<img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet,nodejs" />
+<p align="center">
+  <strong>Frameworks & Ecosystems</strong> <br><br>
+  <img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet,nodejs" />
+</p>
 
-<h4>Infra and databases</h4>  
-<img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
+<p align="center">
+  <strong>Infra and databases</strong> <br><br>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
+</p>
 
 <h2>Connect with me🤝</h2> 
 
