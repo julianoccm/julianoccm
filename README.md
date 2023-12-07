@@ -16,12 +16,12 @@
 
 <h3 align="center">Frameworks & Ecosystems</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,flutter,react,angular,dotnet" />
 </p>
 
 <h3 align="center">Infra and databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,nginx,docker,mysql,postgresql" />
 </p>
 
 ---
