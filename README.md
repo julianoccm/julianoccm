@@ -5,7 +5,7 @@
 </p>
 
 <h2>About me</h2>  
-<p align="justify">I am a software development professional with 3 years of experience working on both backend and frontend projects. My skills include developing web and mobile applications using Java with the Spring Boot ecosystem, Flutter and the React ecosystem (React Native and React JS). I also have experience in microservices architecture, testing, code versioning and customer service. <b>And, most importantly, I'm passionate about all kinds of technology.</b></b></p>
+<p align="justify">Software Developer with 3 years of experience working on both backend and frontend projects. My skills include developing web and mobile applications using Java with the Spring Boot ecosystem, Flutter and the React ecosystem (React Native and React JS). I also have experience in microservices architecture, testing, code versioning and customer service. <b>And, most importantly, I'm passionate about all kinds of technology.</b></b></p>
 
 <hr>
 
