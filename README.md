@@ -5,7 +5,7 @@
 </p>
 
 <h2>About me</h2>  
-<p align="justify">Software Developer with 3 years of experience working on both backend and frontend projects. My skills include developing web and mobile applications using Java with the Spring Boot ecosystem, Flutter and the React ecosystem (React Native and React JS). I also have experience in microservices architecture, testing, code versioning and customer service. <b>And, most importantly, I'm passionate about all kinds of technology.</b></b></p>
+<p align="justify">Full software engineer with over three years' experience, working on both backend and frontend projects. I have worked on systems integration with financial services such as Santander, Bradesco and B3, among other financial entities. My skills include developing backend applications using the Java ecosystem and Kotlin, and developing frontend applications using the Javascript ecosystem (Angular and React), as well as developing mobile applications using React Native, Flutter and Kotlin. I also have experience in cloud environments such as AWS and Google Cloud Platform.</b></b></p>
 
 <hr>
 
