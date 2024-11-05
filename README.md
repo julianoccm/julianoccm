@@ -11,6 +11,19 @@
 </p>
 
 # About me
+Full software developer with over four years' experience, working on both backend and frontend projects. I have worked on systems integration with financial services such as Santander, Bradesco and B3, among other financial entities. My skills include developing backend applications using the Java ecosystem, and developing frontend applications using the Javascript ecosystem, as well as developing mobile applications using React Native, Flutter and Kotlin. I also have experience in cloud environments such as AWS and Google Cloud Platform.
+
+## Currently working on:
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/user-attachments/assets/ea308a55-e39b-4c58-8aaf-b1b47dbc6431"/>]([https://rocketseat.com.br/](https://www.grupoboticario.com.br/))
+
+**Backend Developer II** \
+[**Grupo Boticário**](https://www.grupoboticario.com.br/) • Contract \
+Tech Stack: `Java`, `Kotlin`, `Kafka`, `RabbitMQ`\
+<br/>
+
+
+# Tech Stack
 
 <h3 align="left">Languages</h3>
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,r,dart,ts,js,php,lua,ruby,rust" />
