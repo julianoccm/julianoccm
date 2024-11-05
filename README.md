@@ -13,10 +13,16 @@
 # About me
 
 <h3 align="left">Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,r,dart,lua,ts,js,php,ruby,rust" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,r,dart,ts,js,php,lua,ruby,rust" />
 
 <h3 align="left">Frameworks and Ecosystems</h3>
 <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq,dotnet,anaconda,django,flask,flutter,react,angular,vue,cypress,express,electron,laravel" />
 
 <h3 align="left">Infrastructure and databases</h3>
 <img src="https://skillicons.dev/icons?i=gcp,aws,terraform,nginx,docker,kubernetes,jenkins,mysql,postgresql,redis,elasticsearch,graphql,mongodb" />
+
+<br/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/julianoccm/count.svg" /></p> 
+<br></div>
