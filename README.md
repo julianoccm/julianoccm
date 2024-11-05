@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7600BB&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=A+passionate+fullstack+developer+from+Brazil+🇧🇷" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=fff&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=A+passionate+fullstack+developer+from+Brazil+🇧🇷" alt="Typing SVG" /></a>
 </p>
 
 # About me
