@@ -25,7 +25,7 @@
 </p>
 
 # About me
-Full software developer with over four years' experience, working on both backend and frontend projects. I have worked on systems integration with financial services such as Santander, Bradesco and B3, among other financial entities. My skills include developing backend applications using the Java ecosystem, and developing frontend applications using the Javascript ecosystem, as well as developing mobile applications using React Native, Flutter and Kotlin. I also have experience in cloud environments such as AWS and Google Cloud Platform.
+Full software developer with over four years' experience, working on both backend and frontend projects. I have worked on systems integration with financial services such as Santander, Bradesco and B3, among other financial entities. My skills include developing backend applications using the Java ecosystem, and developing frontend applications using the Javascript ecosystem, as well as developing mobile applications using React Native, Flutter and Kotlin. I also have experience in cloud environments such as AWS and Google Cloud Platform and event driven architecture systems, using Kafka and RabbitMQ.
 
 ## Currently working on:
 
