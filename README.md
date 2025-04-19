@@ -22,11 +22,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julianoccm&theme=onedark&title=-Issues,-PullRequest,-Reviews,-Repositories,-Joined2020&no-frame=true&column=4" />
-</p>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=fff&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=A+passionate+fullstack+developer+from+Brazil+🇧🇷" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=A+passionate+fullstack+developer+from+brazil." alt="Typing SVG"/></a>
 </p>
 
 # About me
