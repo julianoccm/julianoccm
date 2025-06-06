@@ -41,10 +41,10 @@ Tech Stack: `Java`, `Kotlin`, `Kafka`, `RabbitMQ`\
 # Tech Stack
 
 <h3 align="left">Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,r,dart,ts,js,php,lua,ruby,rust" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,dart,ts,js,php" />
 
 <h3 align="left">Frameworks and Ecosystems</h3>
-<img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq,dotnet,anaconda,django,flask,flutter,react,angular,vue,cypress,express,electron,laravel" />
+<img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq,dotnet,django,flask,flutter,react,angular,vue,cypress,express,electron" />
 
 <h3 align="left">Infrastructure and databases</h3>
 <img src="https://skillicons.dev/icons?i=gcp,aws,terraform,nginx,docker,kubernetes,jenkins,mysql,postgresql,redis,elasticsearch,graphql,mongodb" />
