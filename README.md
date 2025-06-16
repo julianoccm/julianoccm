@@ -43,7 +43,7 @@ Tech Stack: `Java`, `Kotlin`, `Kafka`, `RabbitMQ`\
 <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq,dotnet,django,flask,flutter,react,angular,vue,cypress,express,electron" />
 
 <h3 align="left">Infrastructure and databases</h3>
-<img src="https://skillicons.dev/icons?i=gcp,aws,terraform,nginx,docker,kubernetes,jenkins,mysql,postgresql,redis,elasticsearch,graphql,mongodb" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,nginx,docker,mysql,postgresql,redis,graphql,mongodb" />
 
 <br/>
 <div align="center">
